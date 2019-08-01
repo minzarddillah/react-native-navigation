@@ -2,7 +2,7 @@ package com.reactnativenavigation.playground;
 
 import android.os.Bundle;
 import androidx.annotation.NonNull;
-import android.support.v4.app.FragmentActivity;
+import androidx.fragment.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.view.View;
